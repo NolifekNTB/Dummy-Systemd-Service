@@ -1,8 +1,0 @@
-[Unit]
-Description=DummyService
-
-[Service]
-ExecStart=/home/nolifek/dummyService/dummy.sh
-
-[Install]
-WantedBy=multi-user.target
